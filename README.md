@@ -1,3 +1,6 @@
+# Warning
+The original plugin was updated, please download it at https://github.com/Firstbober/krita-rpc.
+
 # Krita DRP
 A Python plugin that adds Discord Rich Presence to Krita
 
